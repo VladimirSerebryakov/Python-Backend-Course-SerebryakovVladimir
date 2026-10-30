@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be3d1ca-1678-45f4-b2ce-e377e5d1da68" name="Changes" comment="" />
+    <list default="true" id="6be3d1ca-1678-45f4-b2ce-e377e5d1da68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/extract_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/extract_prices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/filter_comments_by_author.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/filter_comments_by_author.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/get_ordered_comments_by_likes.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/get_ordered_comments_by_likes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/get_ordered_products_by_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/get_ordered_products_by_price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/select_products_by_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/select_products_by_category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/select_top_users_by_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/select_top_users_by_rate.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3LPJqNSBjrvuP4cHveReYrvZxxS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,10 +37,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "homework-1",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "//wsl.localhost/Ubuntu-26.04/home/vladi/PyProjects/BackendCourse",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
